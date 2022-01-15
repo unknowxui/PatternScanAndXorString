@@ -1,6 +1,6 @@
 # EXAMPLE
 ```c++
-  std::cout << xor_text("asdasdSADFGHJasdfghjk" );
+  std::cout << xor_text("Text pzdc" );
 ```
 # RESULT
 ```c++
